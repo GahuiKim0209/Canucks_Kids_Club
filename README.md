@@ -12,5 +12,5 @@ This project is a high-conversion landing page design for the **Vancouver Canuck
 I focused on **Gamification** to reduce the friction of the sign-up process. By visualizing the membership as a "journey to become an All-Star," the design transforms a functional task into an engaging challenge, significantly increasing the likelihood of conversion.
 
 ## Tech/Tools Used
-* **Design:** Figma (or your tool)
-* **Development:** Framer / HTML5 / CSS3 (if applicable)
+* **Design:** Figma
+* **Development:** Framer / HTML5 / CSS3
